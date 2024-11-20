@@ -50,7 +50,11 @@ This is currently work in progress so please expect minor errors and some rough 
 
 ## Getting Started
 
+Start a python virtual environement via `python -m venv .venv`
+In your terminal activate your venv via `.\.venv\Scripts\activate`
 Install dependencies via `pip install -r requirements.txt`.
+
+This will allow to isolate your python installations to this directory only.
 
 ## Questions?
 
