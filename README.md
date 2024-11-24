@@ -48,7 +48,9 @@ This is currently work in progress so please expect minor errors and some rough 
 
 -->
 
-## Getting Started
+## Getting Started in local
+
+Download python.
 
 Start a python virtual environement via `python -m venv .venv`
 
