@@ -2,3 +2,4 @@
 **/datasets
 **/data
 **/models
+*.pth
